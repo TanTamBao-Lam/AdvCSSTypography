@@ -7,7 +7,7 @@ Using your understanding of typography, help Aoife Conleavy improve the readabil
 ### Morocco
 1. The `header` section of Aoife Conleavy’s site contains the author’s name, along with the text “Travels”, “Fiction”, and “Contact”.
 
-Change the `font-weight` of the `header` so that the text appears **bold**.
+nbsp; Change the `font-weight` of the `header` so that the text appears **bold**.
 
 2. Moving down the page, the `banner` section contains a stunning image, two blocks of text, an `h2` tag with the text “DEC 20XX”, and an `h1` tag with the text “Morocco”.
 
@@ -30,23 +30,19 @@ Using the Google Fonts API, add the following fonts to the index.html file:
 
 You may either link these fonts in a single <link> tag, or three separate <link> tags.
 
-5. You can now use the newly added fonts from Google Fonts within our project. Moving down the page again, set the font-family and property as recommended:
+5. You can now use the newly added fonts from Google Fonts within our project. Moving down the page again, set the `font-family` and property as recommended:
+* Set the typeface of the `h2` tag in the `banner` section to _"Work Sans"_
+* Set the typeface of the `h1` tag in the `banner` section to _"Abril Fatface"_
+* Set the typeface of the journal section to _Work Sans_
+* Set the typeface of the photo caption to _Merriweather_
 
-Set the typeface of the h2 tag in the banner section to "Work Sans"
-Set the typeface of the h1 tag in the banner section to "Abril Fatface"
-Set the typeface of the journal section to Work Sans
-Set the typeface of the photo caption to Merriweather
-
-Stuck? Get a hint
-6.
-The page looks great, but you also have to account for users who may not be able to access the Google Fonts. Find them several fallback fonts to use in case they are restricted from accessing fonts from a third party:
+6. The page looks great, but you also have to account for users who may not be able to access the Google Fonts. Find them several fallback fonts to use in case they are restricted from accessing fonts from a third party:
 
 Set the fallback fonts as follows:
-
-h2 tag in the banner section: "Arial" and sans-serif
-h1 tag in the banner section: sans-serif
-The journal section: serif
-The photo caption: serif
+* h2 tag in the banner section: "Arial" and sans-serif
+* h1 tag in the banner section: sans-serif
+* The journal section: serif
+* The photo caption: serif
 
 Stuck? Get a hint
 7.

@@ -7,7 +7,7 @@ Using your understanding of typography, help Aoife Conleavy improve the readabil
 ### Morocco
 1. The `header` section of Aoife Conleavy’s site contains the author’s name, along with the text “Travels”, “Fiction”, and “Contact”.
 
-nbsp; Change the `font-weight` of the `header` so that the text appears **bold**.
+&nbsp; Change the `font-weight` of the `header` so that the text appears **bold**.
 
 2. Moving down the page, the `banner` section contains a stunning image, two blocks of text, an `h2` tag with the text “DEC 20XX”, and an `h1` tag with the text “Morocco”.
 

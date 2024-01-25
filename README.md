@@ -10,14 +10,16 @@ Using your understanding of typography, help Aoife Conleavy improve the readabil
 Change the `font-weight` of the `header` so that the text appears **bold**.
 
 2. Moving down the page, the `banner` section contains a stunning image, two blocks of text, an `h2` tag with the text “DEC 20XX”, and an `h1` tag with the text “Morocco”.
-Give the `h2` tag a font weight of _500_ and the `h1` tag a font weight of _900_.
+
+  Give the `h2` tag a font weight of _500_ and the `h1` tag a font weight of _900_.
 
 3. After reviewing the project, the author suggests that the line height seems a bit off and needs to be altered throughout the page.
-Work down the page and set `line-height` of the following page elements as recommended:
-* The paragraph within the `journal` section should have a line height of _1.4_ times the font size.
-* The first letter of the journal section should have a line height of _.87_ times the font size.
-* The quote should have a line height of _1.2_ times the font size.
-* The footer content should have a line height _1.5_ times the font size.
+
+  Work down the page and set `line-height` of the following page elements as recommended:
+  * The paragraph within the `journal` section should have a line height of _1.4_ times the font size.
+  * The first letter of the journal section should have a line height of _.87_ times the font size.
+  * The quote should have a line height of _1.2_ times the font size.
+  * The footer content should have a line height _1.5_ times the font size.
 
 4. The site currently uses common _serif_ and _sans-serif_ fonts found on users’ computers. Since the author first published the site, a number of new font libraries have created fonts that you think would be a better fit for the site.
 
